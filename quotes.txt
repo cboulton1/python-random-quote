@@ -1,14 +1,20 @@
-Responsive is better than fast
-It’s not fully shipped until it’s fast
-Anything added dilutes everything else
-Practicality beats purity
-Approachable is better than simple
-Mind your words, they are important
-Speak like a human
-Half measures are as bad as nothing at all
-Encourage flow
-Non-blocking is better than blocking
-Favor focus over features
-Avoid administrative distraction
-Design for failure
-Keep it logically awesome
+Responsive is better than fast.
+It’s not fully shipped until it’s fast.
+Anything added dilutes everything else.
+Practicality beats purity.
+Approachable is better than simple.
+Mind your words, they are important.
+Speak like a human.
+Half measures are as bad as nothing at all.
+Encourage flow.
+Non-blocking is better than blocking.
+Favor focus over features.
+Avoid administrative distraction.
+Design for failure.
+Keep it logically awesome.
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+First, solve the problem. Then, write the code.
+Experience is the name everyone gives to their mistakes.
+In order to be irreplaceable, one must always be different.
+Java is to JavaScript what car is to carpet.
+Knowledge is power.
